@@ -1,0 +1,2 @@
+- Hi, I'm sitnoop.
+- I'm a current computer science student looking to get some practice in development
